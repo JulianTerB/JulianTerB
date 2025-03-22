@@ -2,11 +2,7 @@
 <h3 align="center">a super cool guy that likes programming. B)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianterb&label=Profile%20views&color=0e75b6&style=flat" alt="julianterb" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/JulianTerB](https://github.com/JulianTerB)
 - 📫 Business Email **jjtwente@outlook.com**
-  
-
 <h3>My current PUBLIC projects</h3>
 i am currently making a programming language based off asm / assembly
 ^ dm for more info 
